@@ -1,0 +1,13 @@
+{
+  "email_id": "012",
+  "sender": "maria.rodriguez@email.com",
+  "sender_name": "Maria Rodriguez",
+  "subject": "Joint Account Opening Request",
+  "date": "2024-01-26T10:45:00Z",
+  "body": "Hello,\n\nMy husband and I would like to open a joint checking account. We are both existing customers of your bank.\n\nOur Details:\n- Primary Account Holder: Maria Rodriguez (ACC-2021-4433)\n- Secondary Account Holder: Carlos Rodriguez (ACC-2021-4434)\n\nWe would like to:\n1. Open a joint checking account\n2. Set up direct deposit for both our salaries\n3. Get debit cards for both account holders\n4. Enable online banking with dual access\n\nI have attached:\n- Marriage certificate\n- Joint utility bill showing same address\n- Identification documents for both\n\nCan we complete this process online or do we need to visit a branch?\n\nThank you,\nMaria Rodriguez",
+  "attachments": [
+    "joint_account_documents.pdf"
+  ],
+  "priority": "medium",
+  "requires_response": true
+}

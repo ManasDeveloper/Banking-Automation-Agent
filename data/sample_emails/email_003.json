@@ -1,0 +1,13 @@
+{
+  "email_id": "003",
+  "sender": "michael.chen@email.com",
+  "sender_name": "Michael Chen",
+  "subject": "URGENT: Unauthorized Transaction on My Account",
+  "date": "2024-01-17T09:15:00Z",
+  "body": "URGENT - Please help immediately!\n\nI noticed several unauthorized transactions on my account (ACC-2021-7788) yesterday:\n\n- $500 withdrawal at ATM in New York (I'm in California)\n- $1,200 online purchase from unknown merchant\n- $350 transfer to unknown account\n\nTotal unauthorized amount: $2,050\n\nI have NOT made these transactions and my card is still in my possession. I suspect my card details have been compromised. Please block my card immediately and initiate a fraud investigation.\n\nI have attached screenshots of the transactions from my online banking.\n\nPlease contact me urgently.\n\nMichael Chen\nPhone: (555) 123-4567",
+  "attachments": [
+    "fraud_transactions_screenshots.pdf"
+  ],
+  "priority": "critical",
+  "requires_response": true
+}

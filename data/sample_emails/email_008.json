@@ -1,0 +1,13 @@
+{
+  "email_id": "008",
+  "sender": "amanda.garcia@email.com",
+  "sender_name": "Amanda Garcia",
+  "subject": "Dispute Credit Card Charge",
+  "date": "2024-01-22T15:30:00Z",
+  "body": "Hello,\n\nI would like to dispute a charge on my credit card statement.\n\nCard Number: **** **** **** 7890\nTransaction Date: January 18, 2024\nMerchant: Online Electronics Store\nAmount: $899.99\n\nReason for dispute: I returned the laptop I purchased within the 30-day return window on January 20th. The merchant confirmed they received the return but has not processed my refund. I have tracking confirmation and their return receipt.\n\nI have attached:\n- Return tracking receipt\n- Merchant's return confirmation email\n- Original purchase receipt\n\nPlease initiate a chargeback process.\n\nThank you,\nAmanda Garcia\nAccount: ACC-2022-9988",
+  "attachments": [
+    "chargeback_dispute_amanda.pdf"
+  ],
+  "priority": "medium",
+  "requires_response": true
+}

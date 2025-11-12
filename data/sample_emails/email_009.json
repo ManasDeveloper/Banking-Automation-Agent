@@ -1,0 +1,11 @@
+{
+  "email_id": "009",
+  "sender": "james.wilson@email.com",
+  "sender_name": "James Wilson",
+  "subject": "Request for Account Statement",
+  "date": "2024-01-23T09:30:00Z",
+  "body": "Good morning,\n\nI need account statements for my checking account for tax filing purposes.\n\nAccount Number: ACC-2017-2233\nPeriod Required: January 2023 - December 2023 (full year)\n\nPlease send the detailed statements to this email address or let me know if I can download them from online banking.\n\nThank you for your help.\n\nJames Wilson",
+  "attachments": [],
+  "priority": "low",
+  "requires_response": true
+}

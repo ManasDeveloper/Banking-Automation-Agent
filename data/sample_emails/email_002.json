@@ -1,0 +1,13 @@
+{
+  "email_id": "002",
+  "sender": "sarah.williams@email.com",
+  "sender_name": "Sarah Williams",
+  "subject": "KYC Update - Address Change",
+  "date": "2024-01-16T14:20:00Z",
+  "body": "Hello,\n\nI recently moved to a new address and would like to update my KYC information. My new address is:\n\n456 Maple Avenue, Apt 5B\nSpringfield, CA 90210\n\nI have attached a copy of my utility bill and updated driver's license as proof of address. My account number is ACC-2019-5432.\n\nPlease confirm once the update is complete.\n\nThank you,\nSarah Williams",
+  "attachments": [
+    "kyc_update_sarah_williams.pdf"
+  ],
+  "priority": "medium",
+  "requires_response": true
+}

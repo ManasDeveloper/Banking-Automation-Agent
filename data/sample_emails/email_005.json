@@ -1,0 +1,13 @@
+{
+  "email_id": "005",
+  "sender": "robert.martinez@email.com",
+  "sender_name": "Robert Martinez",
+  "subject": "Business Loan Application - Expansion Capital",
+  "date": "2024-01-19T13:30:00Z",
+  "body": "Dear Loan Department,\n\nI am Robert Martinez, owner of Martinez Auto Repair LLC. I am applying for a business loan of $200,000 to expand my auto repair business.\n\nBusiness Details:\n- Business Name: Martinez Auto Repair LLC\n- Years in Operation: 12 years\n- Annual Revenue: $450,000\n- Purpose: Purchase new equipment and expand to second location\n- Business Account: BUS-ACC-2012-3344\n\nI have attached:\n- Business financial statements (last 3 years)\n- Tax returns\n- Business plan for expansion\n- Equipment quotes\n\nPlease review and advise on the loan approval process and timeline.\n\nRegards,\nRobert Martinez\nPhone: (555) 987-6543",
+  "attachments": [
+    "business_loan_application.pdf"
+  ],
+  "priority": "high",
+  "requires_response": true
+}

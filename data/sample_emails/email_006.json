@@ -1,0 +1,11 @@
+{
+  "email_id": "006",
+  "sender": "lisa.thompson@email.com",
+  "sender_name": "Lisa Thompson",
+  "subject": "Unable to Access Online Banking",
+  "date": "2024-01-20T08:00:00Z",
+  "body": "Hello Support Team,\n\nI have been unable to log into my online banking account for the past 2 days. I keep getting an \"Invalid credentials\" error even though I'm certain my password is correct.\n\nAccount Number: ACC-2020-6655\nUsername: lisathompson88\n\nI tried the \"Forgot Password\" option but I'm not receiving the reset email. I checked my spam folder as well.\n\nThis is urgent as I need to pay some bills this week. Can you please help me regain access to my account?\n\nThank you,\nLisa Thompson\nPhone: (555) 222-3333",
+  "attachments": [],
+  "priority": "high",
+  "requires_response": true
+}

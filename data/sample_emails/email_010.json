@@ -1,0 +1,13 @@
+{
+  "email_id": "010",
+  "sender": "patricia.lee@email.com",
+  "sender_name": "Patricia Lee",
+  "subject": "Auto Loan Pre-Approval Request",
+  "date": "2024-01-24T12:00:00Z",
+  "body": "Hello,\n\nI am interested in purchasing a new vehicle and would like to get pre-approved for an auto loan.\n\nLoan Details Requested:\n- Amount: $35,000\n- Vehicle: 2024 Honda Accord\n- Preferred Term: 60 months\n\nMy Information:\n- Account Number: ACC-2019-8877\n- Annual Income: $75,000\n- Current Employment: 6 years at same company\n- Credit Score: Approximately 720\n\nI have attached my recent pay stubs and employment verification letter.\n\nPlease let me know what additional documents you need and the expected timeline for pre-approval.\n\nThank you,\nPatricia Lee",
+  "attachments": [
+    "auto_loan_documents.pdf"
+  ],
+  "priority": "medium",
+  "requires_response": true
+}

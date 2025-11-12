@@ -1,0 +1,11 @@
+{
+  "email_id": "004",
+  "sender": "emily.johnson@email.com",
+  "sender_name": "Emily Johnson",
+  "subject": "Question About Savings Account Interest Rates",
+  "date": "2024-01-18T11:45:00Z",
+  "body": "Hi,\n\nI'm considering opening a high-yield savings account with your bank. Could you please provide information about:\n\n1. Current interest rates for savings accounts\n2. Minimum balance requirements\n3. Monthly maintenance fees (if any)\n4. Online banking features\n\nI currently have about $50,000 to deposit and am comparing options across different banks.\n\nThank you for your assistance.\n\nBest,\nEmily Johnson",
+  "attachments": [],
+  "priority": "low",
+  "requires_response": true
+}

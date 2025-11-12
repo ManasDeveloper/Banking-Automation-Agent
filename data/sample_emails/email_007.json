@@ -1,0 +1,13 @@
+{
+  "email_id": "007",
+  "sender": "david.brown@email.com",
+  "sender_name": "David Brown",
+  "subject": "KYC Update - Employment Information",
+  "date": "2024-01-21T10:00:00Z",
+  "body": "Dear KYC Team,\n\nI recently changed my employment and would like to update my records with the bank.\n\nPrevious Employer: ABC Corporation\nNew Employer: Global Tech Solutions\nNew Position: Director of Operations\nNew Annual Income: $180,000\n\nAccount Number: ACC-2018-4455\n\nI have attached:\n- New employment letter\n- Recent pay stub\n- Updated tax information\n\nPlease update my profile accordingly.\n\nBest regards,\nDavid Brown",
+  "attachments": [
+    "employment_update_david_brown.pdf"
+  ],
+  "priority": "medium",
+  "requires_response": true
+}

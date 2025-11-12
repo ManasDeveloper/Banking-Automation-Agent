@@ -1,0 +1,13 @@
+{
+  "email_id": "011",
+  "sender": "thomas.anderson@email.com",
+  "sender_name": "Thomas Anderson",
+  "subject": "Suspicious Phishing Email - Reporting",
+  "date": "2024-01-25T14:15:00Z",
+  "body": "Dear Security Team,\n\nI received a suspicious email claiming to be from your bank asking me to \"verify my account\" by clicking a link and entering my credentials. The email looked somewhat legitimate but had several red flags:\n\n1. Generic greeting (\"Dear Customer\" instead of my name)\n2. Urgent tone threatening account closure\n3. Suspicious sender email: support@bank-security-verify.com\n4. Link going to a non-bank website\n\nI did NOT click the link or provide any information. I am forwarding this email to you so your security team can investigate and warn other customers.\n\nMy Account Number: ACC-2020-5566\n\nPlease confirm this was not a legitimate email from your bank.\n\nThank you,\nThomas Anderson",
+  "attachments": [
+    "phishing_email_forward.pdf"
+  ],
+  "priority": "high",
+  "requires_response": true
+}

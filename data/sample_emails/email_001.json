@@ -1,0 +1,13 @@
+{
+  "email_id": "001",
+  "sender": "john.doe@email.com",
+  "sender_name": "John Doe",
+  "subject": "Home Loan Application Request",
+  "date": "2024-01-15T10:30:00Z",
+  "body": "Dear Bank Manager,\n\nI am writing to apply for a home loan of $350,000. I have been a customer of your bank for the past 8 years and have maintained a good credit history. I am currently employed at TechCorp as a Senior Software Engineer with an annual salary of $120,000.\n\nI have attached my recent pay stubs, tax returns for the last 2 years, and property details. The property I wish to purchase is located at 123 Oak Street, valued at $400,000.\n\nPlease let me know the next steps in the application process.\n\nBest regards,\nJohn Doe\nAccount Number: ACC-2024-1001",
+  "attachments": [
+    "loan_application_john_doe.pdf"
+  ],
+  "priority": "high",
+  "requires_response": true
+}
