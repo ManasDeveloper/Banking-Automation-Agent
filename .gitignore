@@ -58,8 +58,9 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Documentation files (keep only README.md)
+# Documentation files (keep only README.md for GitHub)
 CLAUDE.md
 MODEL_COMPARISON.md
 QUICKSTART.md
+PUSH_TO_GITHUB.md
 LICENSE
