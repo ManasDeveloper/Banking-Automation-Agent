@@ -572,8 +572,7 @@ class BankingDashboard:
 
         ---
         **Version**: 1.0.0
-        **Author**: Banking Automation Team
-        **License**: MIT
+        **Author**: Manas Kulkarni
         """)
 
 
