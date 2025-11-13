@@ -4,7 +4,7 @@ A complete AI-powered banking automation system that processes emails, extracts 
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Table of Contents
 
@@ -527,4 +527,4 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for banking automation**
+
