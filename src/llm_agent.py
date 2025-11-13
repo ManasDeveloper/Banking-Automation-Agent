@@ -18,19 +18,19 @@ logger = logging.getLogger(__name__)
 class LLMAgent:
     """Agent for interacting with OpenAI API for banking automation tasks"""
 
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4-turbo-preview"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o-mini"):
         """
         Initialize LLM agent.
 
         Args:
             api_key: OpenAI API key (defaults to OPENAI_API_KEY env var)
-            model: OpenAI model to use
+            model: OpenAI model to use (default: gpt-4o-mini for cost efficiency)
         """
         self.api_key = api_key or os.getenv("OPENAI_API_KEY")
         if not self.api_key:
             logger.warning("No OpenAI API key provided. Set OPENAI_API_KEY environment variable.")
 
-        self.model = model or os.getenv("OPENAI_MODEL", "gpt-4-turbo-preview")
+        self.model = model or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         self.client = OpenAI(api_key=self.api_key) if self.api_key else None
 
         # Banking domain context
